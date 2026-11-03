@@ -1,0 +1,22 @@
+{
+  "schema": {
+    "configs": {
+      "name": "配置名",
+      "folder": "相对仓库根目录的路径，例如 configs/pstack",
+      "description": "这份配置做什么",
+      "agents": "可以使用它的 agent 名称列表",
+      "version": "可选。上游版本号",
+      "license": "可选。许可证标识，例如 MIT"
+    }
+  },
+  "configs": [
+    {
+      "name": "pstack",
+      "folder": "configs/pstack",
+      "description": "严谨、可并行的 coding agent 工作流。含 58 个 skill，用来写出更少但质量更高的代码。Lauren Tan 的 Cursor marketplace 插件 pstack v0.15.36 的 MIT 原样副本。",
+      "agents": ["Cursor", "Grok Bot"],
+      "version": "0.15.36",
+      "license": "MIT"
+    }
+  ]
+}
