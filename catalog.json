@@ -13,9 +13,9 @@
     {
       "name": "pstack",
       "folder": "configs/pstack",
-      "description": "严谨、可并行的 coding agent 工作流。含 58 个 skill，用来写出更少但质量更高的代码。Lauren Tan 的 Cursor marketplace 插件 pstack v0.15.36 的 MIT 原样副本。",
+      "description": "严谨、可并行的 coding agent 工作流。含 59 个 skill，用来写出更少但质量更高的代码。Lauren Tan 的 Cursor marketplace 插件 pstack v0.15.48 的 MIT 原样副本。来源为 github.com/cursor/plugins commit ca782ed8b3c2c521cead8e1720d55c3a5dbf2347 的 pstack/（tree 971573532de6714a4ddff8ec39b52d021ebf161a）。",
       "agents": ["Cursor", "Grok Bot"],
-      "version": "0.15.36",
+      "version": "0.15.48",
       "license": "MIT"
     }
   ]
